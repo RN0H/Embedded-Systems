@@ -1,0 +1,9 @@
+lcdIli9341.c:42:6:lcdIli9341_setArea	1
+lcdIli9341.c:59:6:lcdIli9341_setAreaRead	1
+lcdIli9341.c:79:6:lcdIli9341_drawRect	3
+lcdIli9341.c:91:18:lcdIli9341_getDrawAddress	1
+lcdIli9341.c:97:6:lcdIli9341_init	1
+lcdIli9341.c:199:20:lcdIli9341_writeCmd	1
+lcdIli9341.c:208:6:lcdIli9341_writeData	1
+lcdIli9341.c:216:6:lcdIli9341_readData	1
+lcdIli9341.c:228:10:convRGB565	1
